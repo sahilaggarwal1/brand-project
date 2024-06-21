@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/brand-project/static/css/main.925242b6.css",
+    "main.js": "/brand-project/static/js/main.ce7098be.js",
+    "static/js/453.4cad3cc4.chunk.js": "/brand-project/static/js/453.4cad3cc4.chunk.js",
+    "index.html": "/brand-project/index.html",
+    "main.925242b6.css.map": "/brand-project/static/css/main.925242b6.css.map",
+    "main.ce7098be.js.map": "/brand-project/static/js/main.ce7098be.js.map",
+    "453.4cad3cc4.chunk.js.map": "/brand-project/static/js/453.4cad3cc4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.925242b6.css",
+    "static/js/main.ce7098be.js"
+  ]
+}
